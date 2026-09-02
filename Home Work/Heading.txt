@@ -1,0 +1,17 @@
+<html>
+<body>
+<table border="1">
+<th>Heading</th>
+<th>Another Heading</th>
+</tr>
+<tr>
+<td>row1,cell1</td>
+<td>row1,cell2</td>
+</tr>
+<tr>
+<td>row2,cell1</td>
+<td>row2,cell2</td>
+</tr>
+</table>
+</body>
+</html>
